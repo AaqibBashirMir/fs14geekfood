@@ -1,0 +1,27 @@
+.hero{
+    background-image: url("https://www.skillshare.com/blog/wp-content/uploads/2022/03/Untitled-1-4.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding: 100px 0 0 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+#search{
+ border: none;
+ padding: 10px 40px;
+ border-radius: 5px;
+ background-color: rgb(225,29,72);
+ color: aliceblue;
+
+}
+#know{
+    border: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: rgb(225,29,72);
+
+}

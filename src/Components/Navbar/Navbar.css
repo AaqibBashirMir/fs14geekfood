@@ -1,0 +1,32 @@
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 5px 100px;
+    position: fixed;
+    width: 100%;
+}
+.list{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.left-side{
+    display: flex;
+    gap: 10px;
+}
+.list li{
+    font-weight: 20px;
+}
+#get-started{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(29,78,216);
+    color: aliceblue;
+}
