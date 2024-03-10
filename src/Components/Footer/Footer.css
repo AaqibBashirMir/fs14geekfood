@@ -1,10 +1,8 @@
 .h-8{
     width: 150px;
     color: rgb(31, 180, 31);
-/*     margin-left:600px; */
-    display:flex;
-    justify-content:center;
-    align-items:center;
+    margin-left:600px;
+   
 
 }
 .footerContainer{
