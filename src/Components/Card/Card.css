@@ -5,7 +5,6 @@
 .card{
     padding: 100px 50px;
     display: flex;
-    border: 1px solid red;
 }
 .container{
     display: flex;
